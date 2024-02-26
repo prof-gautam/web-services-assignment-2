@@ -28,3 +28,5 @@ const httsOptions = {
     cert: fs.readFileSync('./ssl/cert.pem')
 }
 ```
+
+I have Ignored SSL, to run this project create ssl directory and add key.pem and cert.pem into it
